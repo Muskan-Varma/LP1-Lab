@@ -1,0 +1,11 @@
+-------------------
+    Symbol Table
+-------------------
+Symbol    Address
+  N       111
+  B       0
+  TERM       132
+  AGAIN       103
+  C       0
+  LE       0
+  RESULT       112
